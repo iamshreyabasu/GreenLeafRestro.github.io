@@ -312,8 +312,11 @@ table{
     justify-content: space-around;
 }
 
-.nl th{
+.news th{
     padding-top: 12%;
+}
+.news table{
+    float: right;
 }
 
 .back th{
