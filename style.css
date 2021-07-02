@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .box{
-    background: url('/images/Background.jpg')no-repeat;
+    background: url('/images/background.jpg')no-repeat;
     background-size: cover;
     overflow-x: hidden;
     width: 100%;
